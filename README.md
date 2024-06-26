@@ -1,0 +1,2 @@
+# hackerrank-one-week-preparation
+ 
